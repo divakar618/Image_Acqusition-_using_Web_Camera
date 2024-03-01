@@ -106,23 +106,26 @@ cv2.destroyAllWindows()
 ```
 ## Output
 ### i) Write the frame as JPG image
-![web img](https://github.com/DEVADARSHAN2/Image_Acqusition-_using_Web_Camera/assets/119432150/84603178-3233-4af5-94af-c5d3209e503e)
+![Screenshot 2024-03-01 123341](https://github.com/divakar618/Image_Acqusition-_using_Web_Camera/assets/121932143/d25f3d90-9e66-48cd-8d16-ae94f1eac86f)
 
 </br>
 </br>
 
 ### ii) Display the video
-![car](https://github.com/DEVADARSHAN2/Image_Acqusition-_using_Web_Camera/assets/119432150/3015815b-a8f3-4291-9139-8615890ef507)
+![Screenshot 2024-03-01 123359](https://github.com/divakar618/Image_Acqusition-_using_Web_Camera/assets/121932143/372274ff-0f2a-4f36-8ed2-953d252461a0)
+
 </br>
 </br>
 
 ### iii) Display the video by resizing the window
-![display res](https://github.com/DEVADARSHAN2/Image_Acqusition-_using_Web_Camera/assets/119432150/5a002387-3214-4836-8d4c-7f3c1e510258)
+![Screenshot 2024-03-01 123415](https://github.com/divakar618/Image_Acqusition-_using_Web_Camera/assets/121932143/0b1665b5-7a90-42a7-89dc-a7b12a31a337)
+
 </br>
 </br>
 
 ### iv) Rotate and display the video
-![rotate img](https://github.com/DEVADARSHAN2/Image_Acqusition-_using_Web_Camera/assets/119432150/a92c1ea9-18b2-4565-a6dd-86f52d62531a)
+![Screenshot 2024-03-01 123426](https://github.com/divakar618/Image_Acqusition-_using_Web_Camera/assets/121932143/af88a160-162a-4a26-839f-a790fe8c146d)
+
 </br>
 </br>
 
